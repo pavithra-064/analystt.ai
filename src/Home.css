@@ -1,0 +1,21 @@
+html {
+  background-color: rgb(221, 219, 219);
+}
+
+.cont,
+.cont1 {
+  background-color: rgb(255, 255, 255) !important;
+  border-radius: 1em;
+}
+.cont1 {
+  border: 1px solid rgb(74, 74, 74);
+}
+.bg {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.btn1 {
+  background-color: rgba(255, 0, 0, 0.72) !important;
+  border: none !important;
+  border-radius: 2em;
+}
